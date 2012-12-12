@@ -1,0 +1,24 @@
+{
+  "name": "yatask",
+  "version": "0.0.1",
+  "description": "yet another task runner",
+  "dependencies": {
+    "async": "0.1.x",
+    "underscore": "1.4.x"
+  },
+  "devDependencies": {
+    "coffee-script": "1.4.x",
+    "chai": "1.4.x",
+    "mocks": "0.0.9"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script"
+  },
+  "repository": "",
+  "author": "Jesse Tuxin",
+  "license": "MIT"
+}

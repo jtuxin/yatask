@@ -1,0 +1,21 @@
+{
+  "node": "true",
+  "browser": "true",
+  "dojo": "true",
+
+  "eqeqeq": "true",
+  "eqnull": "true",
+  "laxcomma": "true",
+  "lastsemic": "true",
+  "supernew": "true",
+  "trailing": "true",
+  "undef": "true",
+  "es5": "true",
+  "expr": "true",
+  "sub": "true",
+  "proto": "true",
+  "validthis": "true",
+
+  "newcap": "false",
+  "strict": "false"
+}
